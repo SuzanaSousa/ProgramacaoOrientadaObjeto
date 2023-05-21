@@ -1,0 +1,15 @@
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.csproj.AssemblyReference.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.AssemblyInfoInputs.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.AssemblyInfo.cs
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.csproj.CoreCompileInputs.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\InterfaceAutenticavel\bin\Debug\net6.0\InterfaceAutenticavel.exe
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\InterfaceAutenticavel\bin\Debug\net6.0\InterfaceAutenticavel.deps.json
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\InterfaceAutenticavel\bin\Debug\net6.0\InterfaceAutenticavel.runtimeconfig.json
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\InterfaceAutenticavel\bin\Debug\net6.0\InterfaceAutenticavel.dll
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\InterfaceAutenticavel\bin\Debug\net6.0\InterfaceAutenticavel.pdb
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.dll
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\InterfaceAutenticavel\obj\Debug\net6.0\refint\InterfaceAutenticavel.dll
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.pdb
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.genruntimeconfig.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\InterfaceAutenticavel\obj\Debug\net6.0\ref\InterfaceAutenticavel.dll
