@@ -1,0 +1,30 @@
+E:\Downloads\POO_noite\AgregacaoConta\obj\Debug\net6.0\AgregacaoConta.csproj.AssemblyReference.cache
+E:\Downloads\POO_noite\AgregacaoConta\obj\Debug\net6.0\AgregacaoConta.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\POO_noite\AgregacaoConta\obj\Debug\net6.0\AgregacaoConta.AssemblyInfoInputs.cache
+E:\Downloads\POO_noite\AgregacaoConta\obj\Debug\net6.0\AgregacaoConta.AssemblyInfo.cs
+E:\Downloads\POO_noite\AgregacaoConta\obj\Debug\net6.0\AgregacaoConta.csproj.CoreCompileInputs.cache
+E:\Downloads\POO_noite\AgregacaoConta\bin\Debug\net6.0\AgregacaoConta.exe
+E:\Downloads\POO_noite\AgregacaoConta\bin\Debug\net6.0\AgregacaoConta.deps.json
+E:\Downloads\POO_noite\AgregacaoConta\bin\Debug\net6.0\AgregacaoConta.runtimeconfig.json
+E:\Downloads\POO_noite\AgregacaoConta\bin\Debug\net6.0\AgregacaoConta.dll
+E:\Downloads\POO_noite\AgregacaoConta\bin\Debug\net6.0\AgregacaoConta.pdb
+E:\Downloads\POO_noite\AgregacaoConta\obj\Debug\net6.0\AgregacaoConta.dll
+E:\Downloads\POO_noite\AgregacaoConta\obj\Debug\net6.0\refint\AgregacaoConta.dll
+E:\Downloads\POO_noite\AgregacaoConta\obj\Debug\net6.0\AgregacaoConta.pdb
+E:\Downloads\POO_noite\AgregacaoConta\obj\Debug\net6.0\AgregacaoConta.genruntimeconfig.cache
+E:\Downloads\POO_noite\AgregacaoConta\obj\Debug\net6.0\ref\AgregacaoConta.dll
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoConta\bin\Debug\net6.0\AgregacaoConta.exe
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoConta\bin\Debug\net6.0\AgregacaoConta.deps.json
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoConta\bin\Debug\net6.0\AgregacaoConta.runtimeconfig.json
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoConta\bin\Debug\net6.0\AgregacaoConta.dll
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoConta\bin\Debug\net6.0\AgregacaoConta.pdb
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoConta\obj\Debug\net6.0\AgregacaoConta.csproj.AssemblyReference.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoConta\obj\Debug\net6.0\AgregacaoConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoConta\obj\Debug\net6.0\AgregacaoConta.AssemblyInfoInputs.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoConta\obj\Debug\net6.0\AgregacaoConta.AssemblyInfo.cs
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoConta\obj\Debug\net6.0\AgregacaoConta.csproj.CoreCompileInputs.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoConta\obj\Debug\net6.0\AgregacaoConta.dll
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoConta\obj\Debug\net6.0\refint\AgregacaoConta.dll
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoConta\obj\Debug\net6.0\AgregacaoConta.pdb
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoConta\obj\Debug\net6.0\AgregacaoConta.genruntimeconfig.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoConta\obj\Debug\net6.0\ref\AgregacaoConta.dll
