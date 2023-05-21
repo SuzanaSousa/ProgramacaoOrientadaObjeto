@@ -1,0 +1,15 @@
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\HerancaCliente\obj\Debug\net6.0\HerancaCliente.csproj.AssemblyReference.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\HerancaCliente\obj\Debug\net6.0\HerancaCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\HerancaCliente\obj\Debug\net6.0\HerancaCliente.AssemblyInfoInputs.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\HerancaCliente\obj\Debug\net6.0\HerancaCliente.AssemblyInfo.cs
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\HerancaCliente\obj\Debug\net6.0\HerancaCliente.csproj.CoreCompileInputs.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\HerancaCliente\bin\Debug\net6.0\HerancaCliente.exe
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\HerancaCliente\bin\Debug\net6.0\HerancaCliente.deps.json
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\HerancaCliente\bin\Debug\net6.0\HerancaCliente.runtimeconfig.json
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\HerancaCliente\bin\Debug\net6.0\HerancaCliente.dll
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\HerancaCliente\bin\Debug\net6.0\HerancaCliente.pdb
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\HerancaCliente\obj\Debug\net6.0\HerancaCliente.dll
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\HerancaCliente\obj\Debug\net6.0\refint\HerancaCliente.dll
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\HerancaCliente\obj\Debug\net6.0\HerancaCliente.pdb
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\HerancaCliente\obj\Debug\net6.0\HerancaCliente.genruntimeconfig.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\HerancaCliente\obj\Debug\net6.0\ref\HerancaCliente.dll
