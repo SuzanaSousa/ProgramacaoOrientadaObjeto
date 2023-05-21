@@ -1,0 +1,30 @@
+E:\Downloads\POO_2023\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.csproj.AssemblyReference.cache
+E:\Downloads\POO_2023\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\POO_2023\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.AssemblyInfoInputs.cache
+E:\Downloads\POO_2023\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.AssemblyInfo.cs
+E:\Downloads\POO_2023\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.csproj.CoreCompileInputs.cache
+E:\Downloads\POO_2023\AgregacaoVenda\bin\Debug\net6.0\AgregacaoVenda.exe
+E:\Downloads\POO_2023\AgregacaoVenda\bin\Debug\net6.0\AgregacaoVenda.deps.json
+E:\Downloads\POO_2023\AgregacaoVenda\bin\Debug\net6.0\AgregacaoVenda.runtimeconfig.json
+E:\Downloads\POO_2023\AgregacaoVenda\bin\Debug\net6.0\AgregacaoVenda.dll
+E:\Downloads\POO_2023\AgregacaoVenda\bin\Debug\net6.0\AgregacaoVenda.pdb
+E:\Downloads\POO_2023\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.dll
+E:\Downloads\POO_2023\AgregacaoVenda\obj\Debug\net6.0\refint\AgregacaoVenda.dll
+E:\Downloads\POO_2023\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.pdb
+E:\Downloads\POO_2023\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.genruntimeconfig.cache
+E:\Downloads\POO_2023\AgregacaoVenda\obj\Debug\net6.0\ref\AgregacaoVenda.dll
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoVenda\bin\Debug\net6.0\AgregacaoVenda.exe
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoVenda\bin\Debug\net6.0\AgregacaoVenda.deps.json
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoVenda\bin\Debug\net6.0\AgregacaoVenda.runtimeconfig.json
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoVenda\bin\Debug\net6.0\AgregacaoVenda.dll
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoVenda\bin\Debug\net6.0\AgregacaoVenda.pdb
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.csproj.AssemblyReference.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.AssemblyInfoInputs.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.AssemblyInfo.cs
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.csproj.CoreCompileInputs.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.dll
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoVenda\obj\Debug\net6.0\refint\AgregacaoVenda.dll
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.pdb
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.genruntimeconfig.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoVenda\obj\Debug\net6.0\ref\AgregacaoVenda.dll
