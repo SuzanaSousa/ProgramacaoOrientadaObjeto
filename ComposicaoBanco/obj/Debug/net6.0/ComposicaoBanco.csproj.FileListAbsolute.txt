@@ -1,0 +1,15 @@
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\ComposicaoBanco\bin\Debug\net6.0\ComposicaoBanco.exe
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\ComposicaoBanco\bin\Debug\net6.0\ComposicaoBanco.deps.json
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\ComposicaoBanco\bin\Debug\net6.0\ComposicaoBanco.runtimeconfig.json
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\ComposicaoBanco\bin\Debug\net6.0\ComposicaoBanco.dll
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\ComposicaoBanco\bin\Debug\net6.0\ComposicaoBanco.pdb
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.csproj.AssemblyReference.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.AssemblyInfoInputs.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.AssemblyInfo.cs
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.csproj.CoreCompileInputs.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.dll
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\ComposicaoBanco\obj\Debug\net6.0\refint\ComposicaoBanco.dll
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.pdb
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.genruntimeconfig.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\ComposicaoBanco\obj\Debug\net6.0\ref\ComposicaoBanco.dll
