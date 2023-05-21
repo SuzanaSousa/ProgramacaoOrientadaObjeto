@@ -1,0 +1,20 @@
+E:\Downloads\POO_2023\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.csproj.AssemblyReference.cache
+E:\Downloads\POO_2023\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\POO_2023\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.AssemblyInfoInputs.cache
+E:\Downloads\POO_2023\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.AssemblyInfo.cs
+E:\Downloads\POO_2023\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.csproj.CoreCompileInputs.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoContaVetor\bin\Debug\net6.0\AgregacaoContaVetor.exe
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoContaVetor\bin\Debug\net6.0\AgregacaoContaVetor.deps.json
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoContaVetor\bin\Debug\net6.0\AgregacaoContaVetor.runtimeconfig.json
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoContaVetor\bin\Debug\net6.0\AgregacaoContaVetor.dll
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoContaVetor\bin\Debug\net6.0\AgregacaoContaVetor.pdb
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.csproj.AssemblyReference.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.AssemblyInfoInputs.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.AssemblyInfo.cs
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.csproj.CoreCompileInputs.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.dll
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoContaVetor\obj\Debug\net6.0\refint\AgregacaoContaVetor.dll
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.pdb
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.genruntimeconfig.cache
+C:\Users\suzso\OneDrive\Documentos\ATIVIDADES-----ADS----04\Programação Orientada Objeto\POO_2023\AgregacaoContaVetor\obj\Debug\net6.0\ref\AgregacaoContaVetor.dll
